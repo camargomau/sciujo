@@ -85,3 +85,24 @@ A [[Transitory Set|transitory set]] is basically the opposite of an ergodic set:
 
 The states in an ergodic set, absorbing set and transitory set are called ergodic, absorbing and transitory, respectively.
 
+## Ergodic, Regular and Cyclical Markov Chains
+
+An [[Ergodic Markov Chain|ergodic Markov chain]] is a Markov chain that only has a single class, which can only be an ergodic set. 
+
+In an ergodic Markov chain, if we can only enter all states in fixed periodic intervals, then it's [[Cyclical Markov Chain|cyclical]]; otherwise, it's [[Regular Markov Chain|regular]].
+
+## Steady State Probabilities and Stationary Distribution
+
+In a regular Markov chain, the probability of reaching a given state is constant when the number of steps is high enough, regardless of the initial state. As such, regular Markov chains are characterised by a [[Steady State Probability|stationary distribution (vector)]], which contains these constant steady state probabilities. 
+
+## First-Passage and Recurrence Time s
+
+In a Markov chain, the [[First-Passage Time|first-passage time]] from a state $i$ to another state $j$ is the amount of steps it takes to reach $j$ from $i$ _for the first time_. 
+
+Similarly, the [[Recurrence Time|recurrence time]] of a state $i$ is the amount of steps it takes to _return_ to $i$ _for the first time_.
+
+We can calculate the [[Average First-Passage Time|average first-passage time]] from a given state $i$ to another state $j$. 
+
+## Absorption Probability
+
+When a Markov chain has absorbing states, the probability of reaching one of them from any other is called the [[Probability of Absorption|probability of absorption]]. 
