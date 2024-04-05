@@ -26,3 +26,8 @@ type: 🗺
 - [[Estadística I]]
 - [[Optimización I]]
 - [[Seminario Sobre México Actual]]
+
+# 6th Semester
+
+- [[Procesos Estocásticos]]
+- [[Ecuaciones Diferenciales II]]

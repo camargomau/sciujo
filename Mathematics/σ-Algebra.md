@@ -21,7 +21,7 @@ A _$\sigma$-algebra_ (_sigma-algebra_), denoted $\mathscr{F}$, is a family of su
 3. If $(A_n)_{n \geq 1}$ is a collection of subsets in $\mathscr{F}$, then $\bigcup_{n=1}^\infty A_n \in \mathscr{F}$
 
 > [!example]-
-> Let's throw a coin.
+> Let's toss a coin.
 >
 > $$
 > \Omega = \{ X, C \}
