@@ -21,6 +21,7 @@ $$
 > For the letters, considering an [[Alphabet|alphabet]] of 26 letters, we can have ${}_{26}\text{PR}_3 = 26^3 = 17\ 576$ different permutations.
 >
 > For the digits, we can have ${}_{10}\text{PR}_3 = 10^4 = 10\ 000$ different permutations.
+> 
 > Now, since we're choosing 3 letters **and** 4 digits, the number of total permutations is given by the [[Multiplication Principle|multiplication principle]]:
 >
 > $$

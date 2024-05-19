@@ -11,8 +11,7 @@ tags:
 
 _**(definition)**_
 
-An [[Ergodic Set|ergodic set]] with a single element is called an **absorbing set**. 
-This single element of an absorbent set is called an **absorbing state**. 
+An [[Ergodic Set|ergodic set]] with a single element is called an **absorbing set**. This single element of an absorbent set is called an **absorbing state**. 
 
 It is called so because once we reach such a state, it _absorbs_ the process and it will remain there forever. 
 

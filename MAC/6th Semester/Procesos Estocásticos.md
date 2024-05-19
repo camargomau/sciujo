@@ -106,3 +106,23 @@ We can calculate the [[Average First-Passage Time|average first-passage time]] f
 ## Absorption Probability
 
 When a Markov chain has absorbing states, the probability of reaching one of them from any other is called the [[Probability of Absorption|probability of absorption]]. 
+
+# Unit 3: Markov Decision Processes
+
+A [[Markov Decision Process|Markov decision process]] (MDP) is a Markov chain where we can make a decision in each state, incurring a cost for each one. MDPs are used to optimise diverse phenomena that can be modelled with them, finding the optimal [[Markov Decision Process Policy|policy]].
+
+We can find this optimal policy through [[Optimisation Methods for Markov Decision Processes|several methods]]: 
+
+- The [[Exhaustive Enumeration Method for MDPs|exhaustive enumeration method]] is the simplest of them all. It consists of enumeration all of the viable policies, calculating the expected cost for each one, then finally selecting the optimal one.
+
+- Solving the [[MDP as a Linear Programming Problem|MDP as a linear programming problem]] through any of the applicable methods. 
+
+- The [[Policy Improvement Method for MDPs|policy improvement method]] consists of solving a linear equation system, then finding an alternative policy that optimises the costs until the optimal policy is reached. 
+
+	- The [[Discounted Policy Improvement Method for MDPs|discounted policy improvement method]] is basically the same method applied for phenomena where it might prove useful to discount the costs the further they are in the future. 
+
+- The [[Successive Approximations Method for MDPs|successive approximations method]] finds an _approximation_ to the optimal policy by using the expected total costs starting from every state given $n$ increasing remaining periods. 
+
+# Unit 4: Poisson, Markov and Non-Markov Processes
+
+An [[M-M-S Queue|M/M/S queue]] is, basically, a birth-death Markov process analysed as a queuing model.

@@ -5,7 +5,7 @@ tags:
   - MAC/6/PE
 ---
 
-**Topics:** [[Regular Markov Chain]]
+**Topics:** [[Regular Markov Chain]] - [[Markov Chain]]
 
 ---
 
@@ -19,7 +19,7 @@ $$
 \pi_{j} = \lim_{ n \to \infty } p_{ij}^{(n)}
 $$
 
-Furthermore, we have that $\pi_{j} = 0$ and the following equations are satisfied:
+Furthermore, we have that $\pi_{j} \geq 0$ and the following equations are satisfied:
 
 1. $\pi_{j} = \sum_{i=0}^{m} \pi_{i} p_{ij}$, for $j = 0, 1, 2, \dots, m$
 2. $\sum_{j=0}^{m} \pi_{j} = 1$
@@ -40,7 +40,7 @@ Thus, we may find it easier to solve the system that consists of all equations _
 
 # Transitory States Tend to 0
 
-_**(corollary)
+_**(corollary)**_
 
 If $j$ is a [[Transitory Set|transitory state]], then:
 

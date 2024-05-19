@@ -13,7 +13,7 @@ _**(definition)**_
 
 Let $T$ be a subset of [[State Set|state set]] $S$ and let $T'$ be its [[Complement Set|complement]] in $S$. 
 
-If each state in $T$ can be reached from any other in $T$, and it's possible to move from (at least) one state in $T$ to another in $T'$, then we call $T$ a **transitory set.
+If each state in $T$ can be reached from any other in $T$, and it's possible to move from (at least) one state in $T$ to another in $T'$, then we call $T$ a **transitory set**.
 
 A **transitory state** is an element of a transitory set. A state that is not transitory is [[Ergodic Set|ergodic]]. 
 

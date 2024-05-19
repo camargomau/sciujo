@@ -14,9 +14,12 @@ _**(theorem)**_
 Let $(B_i)_{i \in \mathbb{N}}$ be a [[Partition of a Sample Space|partition of a sample space]] and let $A$ be an [[Event|event]]. Then:
 
 $$
-\mathbb{P}(B_i \mid A) = \frac{\mathbb{P}(A \mid B_i) \mathbb{P}(B_i)}{\mathbb{P}(A)}
+\begin{align*}
+\mathbb{P}(B_i \mid A) &= \frac{\mathbb{P}(A \mid B_i) \mathbb{P}(B_i)}{\mathbb{P}(A)} \\[0.5em]
+&= \frac{\mathbb{P}(A \mid B_i) \mathbb{P}(B_i)}{\sum_{i \in \mathbb{N}} \mathbb{P}(A \mid B_i) \mathbb{P}(B_i)}
+\end{align*}
 $$
 
-(see [[Conditional Probability|conditional probability]])
+See [[Conditional Probability|conditional probability]]. The second equality follows after the [[Total Probability Formula|total probability formula]].
 
 Basically, Bayes' theorem describes the [[Probability of an Event|probability of an event]] based on prior knowledge of conditions that might be related to the event.

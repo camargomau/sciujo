@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Say we're studying a game between two players A and B. In it, there's a probability $p$ of winning and $q$ of losing; there can't be a draw.
+Say we're studying a game between two players A and B. In it, there's a probability $p$ of A winning and $q$ of B losing; there can't be a draw.
 
 The two players agree on giving each other a monetary unit upon losing. Player A starts with $K$ units, while B starts with $N-K$, adding up to a total of $N$. 
 
