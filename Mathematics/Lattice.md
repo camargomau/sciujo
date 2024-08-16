@@ -2,7 +2,7 @@
 date: 2022-09-20
 type: 🧠
 tags:
-  - MAC/S3/MD
+  - MAC/3/MD
 ---
 
 **Topics:** [[Discrete Mathematics]]

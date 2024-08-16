@@ -2,7 +2,7 @@
 date: 2023-02-21
 type: 🧠
 tags:
-  - MAC/S4/PB
+  - MAC/4/PB
 ---
 
 **Topics:** [[Combinatorics]]

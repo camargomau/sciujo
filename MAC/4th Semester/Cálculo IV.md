@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S4/C4
+  - MAC/4/C4
 ---
 
 # Unit 1: Vector-Valued Functions

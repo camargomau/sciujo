@@ -2,7 +2,7 @@
 date: 4-20
 type: 🧠
 tags:
-  - MAC/S2/ÁL
+  - MAC/2/ÁL
 ---
 
 _**Topics**_: [[Algebra]] - [[Eigenvalues and Eigenvectors]]

@@ -2,7 +2,7 @@
 date: 2022-04-27
 type: 🧠
 tags:
-  - MAC/S2/C2
+  - MAC/2/C2
 aliases:
   - Monotone Sequence
   - monotone sequence

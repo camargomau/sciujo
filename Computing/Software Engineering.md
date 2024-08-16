@@ -2,7 +2,7 @@
 date: 2023-08-15
 type: 🧠
 tags:
-  - MAC/S5/IS
+  - MAC/5/IS
 ---
 
 **Topics:** [[Software Engineering]]

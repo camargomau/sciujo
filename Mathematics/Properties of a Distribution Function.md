@@ -2,7 +2,7 @@
 date: 2023-03-20
 type: 🧠
 tags:
-  - MAC/S4/PB
+  - MAC/4/PB
 ---
 
 **Topics:** [[Distribution Function]] - [[Probability]]

@@ -2,7 +2,7 @@
 date: 2022-03-31
 type: 🧠
 tags:
-  - MAC/S2/RC
+  - MAC/2/RC
 ---
 
 **Topics:**

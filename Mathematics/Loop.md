@@ -2,8 +2,8 @@
 date: 2023-03-16
 type: 🧠
 tags:
-  - MAC/S3/MD
-  - MAC/S4/TG
+  - MAC/3/MD
+  - MAC/4/TG
 ---
 
 **Topics:** [[Edge]] - [[Graph Theory]]

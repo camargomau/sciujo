@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S4/PB
+  - MAC/4/PB
 ---
 
 # Unit 1: Events and Probability

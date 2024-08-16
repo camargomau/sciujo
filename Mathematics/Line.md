@@ -2,7 +2,7 @@
 date: 2022-03-29
 type: 🧠
 tags:
-  - MAC/S2/GE
+  - MAC/2/GE
 aliases:
   - line
   - lines

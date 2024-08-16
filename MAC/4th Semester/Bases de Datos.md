@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S4/BD
+  - MAC/4/BD
 ---
 
 A **[[Database|database]]** (🗺) is a collection of data that is organised structurally according to a specific well-defined set of rules.

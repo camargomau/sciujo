@@ -2,7 +2,7 @@
 date: 2023-02-05
 type: 🧠
 tags:
-  - MAC/S4/BD
+  - MAC/4/BD
 aliases:
   - tuple
 ---

@@ -2,7 +2,7 @@
 date: 2022-04-01
 type: 🧠
 tags:
-  - MAC/S2/ÁL
+  - MAC/2/ÁL
 ---
 
 **Topics:** [[Algebra]] - [[Linear Transformation]]

@@ -2,8 +2,8 @@
 date: 2021-11-30
 type: 🧠
 tags:
-  - MAC/S1/ÁS
-  - MAC/S3/MD
+  - MAC/1/ÁS
+  - MAC/3/MD
 ---
 
 **Topics:** [[Discrete Mathematics]] - [[Algebra]] - [[Relation]]

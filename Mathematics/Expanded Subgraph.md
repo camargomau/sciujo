@@ -2,7 +2,7 @@
 date: 2023-02-28
 type: 🧠
 tags:
-  - MAC/S4/TG
+  - MAC/4/TG
 ---
 
 **Topics:** [[Graph]] - [[Graph Theory]]

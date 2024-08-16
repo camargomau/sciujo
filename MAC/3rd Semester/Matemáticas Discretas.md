@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S3/MD
+  - MAC/3/MD
 ---
 
 # Sets

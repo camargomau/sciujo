@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S4/MN2
+  - MAC/4/MN2
 ---
 
 # Interpolation

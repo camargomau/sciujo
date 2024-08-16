@@ -2,7 +2,7 @@
 date: 2022-09-01
 type: 🧠
 tags:
-  - MAC/S3/MD
+  - MAC/3/MD
 ---
 
 **Topics:** [[Discrete Mathematics]] - [[Partially Ordered Set]]

@@ -2,7 +2,7 @@
 date: 2022-08-26
 type: 🧠
 tags:
-  - MAC/S3/C3
+  - MAC/3/C3
 ---
 
 **Topics:** [[Calculus]] - [[Sequence]] - [[Topology]]

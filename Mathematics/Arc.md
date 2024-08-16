@@ -2,7 +2,7 @@
 date: 2023-02-07
 type: 🧠
 tags:
-  - MAC/S4/TG
+  - MAC/4/TG
 aliases:
   - arc
   - head

@@ -2,7 +2,7 @@
 date: 2022-09-20
 type: 🧠
 tags:
-  - MAC/S3/MN1
+  - MAC/3/MN1
 ---
 
 **Topics:** [[Numerical Analysis]] - [[Numerical Method]]

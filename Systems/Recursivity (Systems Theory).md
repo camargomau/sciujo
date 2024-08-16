@@ -2,7 +2,7 @@
 date: 2023-08-11
 type: 🧠
 tags:
-  - MAC/S5/O1
+  - MAC/5/O1
 ---
 
 **Topics:** [[Systems Theory]]

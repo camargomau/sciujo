@@ -2,7 +2,7 @@
 date: 2022-03-31
 type: 🧠
 tags:
-  - MAC/S2/GE
+  - MAC/2/GE
 aliases:
   - intersecting line
   - intersecting lines

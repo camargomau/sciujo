@@ -2,7 +2,7 @@
 date: 2022-08-17
 type: 🧠
 tags:
-  - MAC/S3/C3
+  - MAC/3/C3
 aliases:
   - open ball
 ---

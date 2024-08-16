@@ -2,7 +2,7 @@
 date: 2023-03-13
 type: 🧠
 tags:
-  - MAC/S4/C4
+  - MAC/4/C4
 ---
 
 **Topics:** [[Calculus]] - [[Vector-Valued Function]]

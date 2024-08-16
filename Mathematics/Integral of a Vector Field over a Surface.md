@@ -2,7 +2,7 @@
 date: 2023-05-03
 type: 🧠
 tags:
-  - MAC/S4/C4
+  - MAC/4/C4
 ---
 
 **Topics:** [[Calculus]] - [[Vector Field]] - [[Surface]]

@@ -2,7 +2,7 @@
 date: 2023-02-08
 type: 🧠
 tags:
-  - MAC/S4/PB
+  - MAC/4/PB
 aliases:
   - "probability function"
 ---

@@ -2,7 +2,7 @@
 date: 2022-09-07
 type: 🧠
 tags:
-  - MAC/S3/C4
+  - MAC/3/C4
 aliases:
   - continuous
 ---

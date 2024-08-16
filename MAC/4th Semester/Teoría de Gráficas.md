@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S4/TG
+  - MAC/4/TG
 ---
 
 # Graphs

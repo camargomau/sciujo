@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S3/C3
+  - MAC/3/C3
 ---
 
 # Unit 1

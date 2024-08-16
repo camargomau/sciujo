@@ -2,7 +2,7 @@
 date: 2022-08-31
 type: 🧠
 tags:
-  - MAC/S3/C3
+  - MAC/3/C3
 ---
 
 **Topics:** [[Calculus]] - [[Function]] - [[Vector Space]]

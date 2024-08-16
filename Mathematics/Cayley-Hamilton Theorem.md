@@ -2,7 +2,7 @@
 date: 2022-05-04
 type: 🧠
 tags:
-  - MAC/S2/ÁL
+  - MAC/2/ÁL
 ---
 
 **Topics:** [[Algebra]] - [[Diagonalisation of a Linear Transformation]]

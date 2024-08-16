@@ -2,8 +2,8 @@
 date: 2022-08-18
 type: 🧠
 tags:
-  - MAC/S3/MD
-  - MAC/S4/TG
+  - MAC/3/MD
+  - MAC/4/TG
 ---
 
 **Topics:** [[Discrete Mathematics]] - [[Relation]] - [[Graph]]

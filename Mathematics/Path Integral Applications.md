@@ -2,7 +2,7 @@
 date: 2023-04-16
 type: 🧠
 tags:
-  - MAC/S4/C4
+  - MAC/4/C4
 ---
 
 **Topics:** [[Path Integral]] - [[Calculus]]

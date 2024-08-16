@@ -2,7 +2,7 @@
 date: 2022-05-17
 type: 🧠
 tags:
-  - MAC/S2/GE
+  - MAC/2/GE
 ---
 
 **Topics:** [[Geometry]] - [[3D Space]] - [[Plane]]

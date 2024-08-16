@@ -2,8 +2,8 @@
 date: 2022-08-10
 type: 🧠
 tags:
-  - MAC/S2/ÁL
-  - MAC/S3/C3
+  - MAC/2/ÁL
+  - MAC/3/C3
 aliases:
   - vector space
   - vector spaces

@@ -2,7 +2,7 @@
 date: 2023-02-11
 type: 🧠
 tags:
-  - MAC/S4/PB
+  - MAC/4/PB
 ---
 
 **Topics:** [[Probability Measure]] - [[Probability]]

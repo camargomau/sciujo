@@ -2,7 +2,7 @@
 date: 2023-10-13
 type: 🧠
 tags:
-  - MAC/S5/E1
+  - MAC/5/E1
 ---
 
 **Topics:** [[Statistics]] - [[Sample Statistic]]

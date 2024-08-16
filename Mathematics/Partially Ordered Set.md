@@ -2,7 +2,7 @@
 date: 2022-09-01
 type: 🧠
 tags:
-  - MAC/S3/MN1
+  - MAC/3/MN1
 aliases:
   - poset
 ---

@@ -2,7 +2,7 @@
 date: 2023-03-12
 type: 🧠
 tags:
-  - MAC/S4/MN2
+  - MAC/4/MN2
 ---
 
 **Topics:** [[Numerical Analysis]]

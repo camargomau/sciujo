@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S5/E1
+  - MAC/5/E1
 ---
 
 # Unit 1: Introduction to Statistics

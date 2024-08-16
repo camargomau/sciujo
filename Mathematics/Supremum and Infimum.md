@@ -2,7 +2,7 @@
 date: 2022-09-08
 type: 🧠
 tags:
-  - MAC/S3/MD
+  - MAC/3/MD
 aliases:
   - supremum
   - infimum

@@ -2,8 +2,8 @@
 date: 2023-03-06
 type: 🧠
 tags:
-  - MAC/S4/PB
-  - MAC/S5/E1
+  - MAC/4/PB
+  - MAC/5/E1
 ---
 
 **Topics:** [[Probability]] - [[Random Variable]]

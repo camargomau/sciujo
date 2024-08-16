@@ -2,7 +2,7 @@
 date: 2024-05-18
 type: 🧠
 tags:
-  - MAC/5/PE
+  - MAC/6/PE
 ---
 
 **Topics:** [[Markov Decision Process]] - [[Optimisation]]

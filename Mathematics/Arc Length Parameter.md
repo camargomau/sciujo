@@ -2,7 +2,7 @@
 date: 2023-02-17
 type: 🧠
 tags:
-  - MAC/S4/C4
+  - MAC/4/C4
 ---
 
 **Topics:** [[Arc Length]] - [[Vector-Valued Function]]

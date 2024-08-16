@@ -2,7 +2,7 @@
 date: 2022-10-21
 type: 🧠
 tags:
-  - MAC/S3/C3
+  - MAC/3/C3
 ---
 
 **Topics:** [[Differentiable Vectorial Function]] - [[Matrix]]

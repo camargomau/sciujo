@@ -2,7 +2,7 @@
 date: 2023-03-07
 type: 🧠
 tags:
-  - MAC/S4/TG
+  - MAC/4/TG
 ---
 
 **Topics:** [[Graph Theory]] - [[Internal and External Degrees of a Vertex]] - [[Vertex]] - [[Digraph]]

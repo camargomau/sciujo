@@ -2,8 +2,8 @@
 date: 2022-05-06
 type: 🧠
 tags:
-  - MAC/S2/ÁL
-  - MAC/S3/C3
+  - MAC/2/ÁL
+  - MAC/3/C3
 ---
 
 **Topics:** [[Algebra]] - [[Vector Space]] - [[Calculus]]

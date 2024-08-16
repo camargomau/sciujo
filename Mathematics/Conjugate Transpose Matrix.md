@@ -2,7 +2,7 @@
 date: 2022-05-06
 type: 🧠
 tags:
-  - MAC/S2/ÁL
+  - MAC/2/ÁL
 ---
 
 **Topics:** [[Algebra]] - [[Matrix]]

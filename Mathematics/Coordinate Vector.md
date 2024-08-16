@@ -2,7 +2,7 @@
 date: 2022-03-29
 type: 🧠
 tags:
-  - MAC/S2/ÁL
+  - MAC/2/ÁL
 ---
 
 **Topics:** [[Algebra]] - [[Vector Space]]

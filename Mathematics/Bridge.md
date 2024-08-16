@@ -2,7 +2,7 @@
 date: 2023-04-20
 type: 🧠
 tags:
-  - MAC/S4/TG
+  - MAC/4/TG
 ---
 
 **Topics:** [[Connected Graph]] - [[Graph Theory]]

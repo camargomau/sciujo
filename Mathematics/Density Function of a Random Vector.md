@@ -2,7 +2,7 @@
 date: 2023-05-12
 type: 🧠
 tags:
-  - MAC/S4/TG
+  - MAC/4/TG
 ---
 
 **Topics:** [[Probability]] - [[Random Vector]] - [[Density Function]]

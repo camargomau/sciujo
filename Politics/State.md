@@ -2,7 +2,7 @@
 date: 2023-08-31
 type: 🧠
 tags:
-  - MAC/S5/SMA
+  - MAC/5/SMA
 ---
 
 **Topics:** [[Politics]]

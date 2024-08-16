@@ -2,8 +2,8 @@
 date: 2023-02-10
 type: 🧠
 tags:
-  - MAC/S4/C4
-  - MAC/S2/ÁL
+  - MAC/4/C4
+  - MAC/2/ÁL
 ---
 
 **Topics:** [[Geometry]] - [[Linear Algebra]]

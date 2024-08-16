@@ -2,7 +2,7 @@
 date: 2022-05-09
 type: 🧠
 tags:
-  - MAC/S2/C2
+  - MAC/2/C2
 ---
 
 **Topics:** [[Calculus]] - [[Polynomial]] - [[Function]]

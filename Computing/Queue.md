@@ -2,7 +2,7 @@
 date: 2022-10-24
 type: 🧠
 tags:
-  - MAC/S3/ED
+  - MAC/3/ED
 ---
 
 **Topics:** [[Data Structure]]

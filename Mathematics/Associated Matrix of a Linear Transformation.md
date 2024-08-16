@@ -2,7 +2,7 @@
 date: 2022-03-28
 type: 🧠
 tags:
-  - MAC/S2/ÁL
+  - MAC/2/ÁL
 aliases:
   - associated-matrix
 ---

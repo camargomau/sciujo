@@ -2,7 +2,7 @@
 date: 2023-02-07
 type: 🧠
 tags:
-  - MAC/S4/MN2
+  - MAC/4/MN2
 ---
 
 **Topics:** [[Polynomial]] - [[Numerical Analysis]]

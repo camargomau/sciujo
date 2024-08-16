@@ -1,7 +1,7 @@
 ---
 type: 🏫
 tags:
-  - MAC/S5/O1
+  - MAC/5/O1
 ---
 
 # Unit 1: Systems Theory

@@ -2,7 +2,7 @@
 date: 2022-04-04
 type: 🧠
 tags:
-  - MAC/S2/ÁL
+  - MAC/2/ÁL
 ---
 
 **Topics:** [[Algebra]] - [[Linear Transformation]] - [[Vector Space]] - [[Associated Matrix of a Linear Transformation]] - [[Coordinate Vector]]

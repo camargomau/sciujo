@@ -2,7 +2,7 @@
 date: 2023-02-22
 type: 🧠
 tags:
-  - MAC/S4/PB
+  - MAC/4/PB
 ---
 
 **Topics:** [[Partition of a Sample Space]] - [[Probability]] - [[Sample Space]]

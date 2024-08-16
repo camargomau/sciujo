@@ -2,7 +2,7 @@
 date: 2022-05-16
 type: 🧠
 tags:
-  - MAC/S2/ÁL
+  - MAC/2/ÁL
 ---
 
 **Topics:** [[Algebra]] - [[Matrix]] - [[Orthonormal and Orthogonal Set]]

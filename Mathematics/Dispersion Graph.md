@@ -2,7 +2,7 @@
 date: 2023-08-25
 type: 🧠
 tags:
-  - MAC/S5/E1
+  - MAC/5/E1
 ---
 
 **Topics:** [[Statistics]] - [[Graphical Representations of Statistical Data]]

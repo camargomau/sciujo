@@ -2,7 +2,7 @@
 date: 2022-11-07
 type: 🧠
 tags:
-  - MAC/S3/C3
+  - MAC/3/C3
 ---
 
 _**Topics:**_ [[Calculus]]
