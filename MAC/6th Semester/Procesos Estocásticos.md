@@ -101,7 +101,7 @@ In a Markov chain, the [[First-Passage Time|first-passage time]] from a state $i
 
 Similarly, the [[Recurrence Time|recurrence time]] of a state $i$ is the amount of steps it takes to _return_ to $i$ _for the first time_.
 
-We can calculate the [[Average First-Passage Time|average first-passage time]] from a given state $i$ to another state $j$. 
+We can calculate the [[S Études/S1 MAC/S1.6/S1.63.K Estocásticos/Incompleto/Average First-Passage Time|average first-passage time]] from a given state $i$ to another state $j$. 
 
 ## Absorption Probability
 

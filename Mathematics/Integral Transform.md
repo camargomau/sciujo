@@ -2,7 +2,7 @@
 date: 2024-02-01
 type: 🧠
 tags:
-  - MAC/6D
+  - MAC/6/ED2
 ---
 
 **Topics:** [[Integral Transform]]

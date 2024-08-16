@@ -58,4 +58,4 @@ $$
 
 The third and last step is to **determine whether we've obtained the optimal policy** or not, continuing with another iteration if it is not the case.
 
-If $r_{n+1} = r$, then we have the optimal policy. If not, then we shall make another iteration ($n \leftarrow n+1$ and back to step 1). 
+If $r_{n+1} = r_{n}$, then we have the optimal policy. If not, then we shall make another iteration ($n \leftarrow n+1$ and back to step 1). 

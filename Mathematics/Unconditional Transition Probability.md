@@ -2,7 +2,7 @@
 date: 2024-04-04
 type: 🧠
 tags:
-  - MAC/N/PE
+  - MAC/6/PE
 ---
 
 **Topics:** [[Markov Chain]] - [[Transition Probabilities in a Markov Chain]]

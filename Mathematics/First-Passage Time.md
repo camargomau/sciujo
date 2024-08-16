@@ -15,4 +15,4 @@ In the context of a [[Markov Chain|Markov chain]], the **first-passage time** is
 
 Compare to the [[Recurrence Time|recurrence time]], which is the minimum amount of steps needed to _return_ to a given state (for the first time, too).
 
-We can obtain the [[Average First-Passage Time|average first-passage time]] for a given state when starting at another given state.
+We can obtain the [[C Scio/Mathematics/Average First-Passage Time|average first-passage time]] for a given state when starting at another given state.

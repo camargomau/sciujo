@@ -55,9 +55,9 @@ Programación Orientada a Objetos had no Scinotoj, so it has no associated tag.
 
 ## 6th Semester
 
-- #MAC/6/ES - Estadística II
-- #MAC/6/OP - Optimización II
+- #MAC/6/E2 - Estadística II
+- #MAC/6/O2 - Optimización II
 - #MAC/6/PE - Procesos Estocásticos
-- #MAC/6/ED - Ecuaciones Diferenciales II
-- #MAC/6/SE - Seminario Sobre Ética y Responsabilidad Social
+- #MAC/6/ED2 - Ecuaciones Diferenciales II
+- #MAC/6/SER - Seminario Sobre Ética y Responsabilidad Social
 - #MAC/6/DW - Desarrollo Web

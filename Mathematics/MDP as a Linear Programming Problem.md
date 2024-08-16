@@ -35,7 +35,7 @@ $$
 D_{ik} = \mathbb{P}(k \mid i)
 $$
 
-Id est, the probability of making the decision $k$ given that the state is in the [[State Set|state set]] $i$. 
+Id est, the probability of making the decision $k$ given that the system is in the [[State Set|state]] $i$. 
 
 Under this reinterpretation, we'll be actually using other variables in the [[Objective Function|objective function]]: $Y_{ik}$. These represent the [[Unconditional Transition Probability|unconditional]] [[Steady State Probability|steady state probability]] of being in the state $i$ _and_ taking the decision $k$, satisfying:
 

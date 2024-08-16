@@ -26,7 +26,7 @@ The exhaustive enumeration method consists of the following steps.
 **Calculating the [[Expected Value|expected]] _long term_ cost for every policy $r$:**
 
 $$
-\mathbb{E}[C_{r}] = \sum_{i=0}^{m} C_{ik} \pi_{i}
+\mathbb{E}[C_{r}] = \sum_{i=0}^{m} C_{ik}\ \pi_{i}
 $$
 
 …where $C_{ik}$ denotes the cost incurred for making the decision $k$ (defined _according to the policy_) in the state $i$, while $\pi_{i}$ denotes the [[Steady State Probability|steady state probability]] of the state $i$ _given the policy_. 
